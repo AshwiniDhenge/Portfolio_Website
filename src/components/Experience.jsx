@@ -4,7 +4,7 @@ const internships = [
   {
     id: 1,
     position: "Web Development Intern",
-    company: "Techoctanet Services Pvt Ltd.",
+    company: "Octanet Services Pvt Ltd.",
     location: "Maharashtra",
     period: "May 2024 - Aug 2024",
     technologies: "Html, Tailwind CSS, React.js, JavaScript, Auth0",
